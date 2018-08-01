@@ -1,2 +1,0 @@
-# InfiniteScroller
-Created with CodeSandbox
